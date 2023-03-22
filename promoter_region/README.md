@@ -9,4 +9,8 @@ GO_annotations.txt: Four columns, one header row, and 230 data rows. Tab-delimit
 
 orthologous_genes.txt: Two columns, one header row, and 62 data rows. Tab-delimited. First column header is "orthologous_gene_1". Second column header is "orthologous_gene_2". Both columns contain gene identifiers for sorghum (Sobic), maize (Zm00001eb), Arabidopsis (AT), and poplar (POPTR_). Each row lists two gene identifiers that are orthologous according to InParanoid in Planteome.
 
+promoter_region_clustalvis_data0.tsv:
+
 panther_results folder: 
+
+clustalvis folder:
