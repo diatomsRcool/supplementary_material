@@ -1,0 +1,125 @@
+exposure	expression	gene_id
+drought treatment	decreases expression of	Sobic.002G244300
+drought treatment	decreases expression of	Sobic.009G008800
+drought treatment	decreases expression of	Sobic.007G151300
+drought treatment	decreases expression of	Zm00001eb192050
+drought treatment	decreases expression of	Zm00001eb425710
+drought treatment	decreases expression of	Zm00001eb431990
+drought treatment	decreases expression of	Zm00001eb329730
+drought treatment	decreases expression of	Zm00001eb197870
+drought treatment	decreases expression of	Zm00001eb282040
+drought treatment	decreases expression of	Zm00001eb225160
+drought treatment	decreases expression of	Zm00001eb027760
+drought treatment	decreases expression of	Zm00001eb141270
+drought treatment	decreases expression of	Zm00001eb361000
+drought treatment	decreases expression of	Zm00001eb022710
+drought treatment	decreases expression of	Zm00001eb346510
+drought treatment	decreases expression of	AT3G49960
+drought treatment	decreases expression of	AT1G70710
+drought treatment	decreases expression of	AT1G10550
+drought treatment	decreases expression of	AT5G67400
+drought treatment	decreases expression of	AT1G07370
+drought treatment	decreases expression of	AT2G36870
+drought treatment	decreases expression of	AT5G23210
+drought treatment	decreases expression of	AT1G67750
+drought treatment	decreases expression of	AT2G39530
+drought treatment	decreases expression of	AT1G13420
+drought treatment	decreases expression of	AT2G04780
+drought treatment	decreases expression of	AT1G11600
+drought treatment	decreases expression of	AT1G20850
+drought treatment	decreases expression of	AT5G13140
+drought treatment	decreases expression of	AT2G10940
+drought treatment	decreases expression of	AT1G11580
+drought treatment	decreases expression of	AT2G06850
+drought treatment	decreases expression of	AT3G54400
+drought treatment	decreases expression of	AT4G08685
+drought treatment	decreases expression of	AT3G44990
+drought treatment	decreases expression of	AT3G02640
+drought treatment	decreases expression of	AT3G27400
+drought treatment	decreases expression of	AT3G16370
+drought treatment	decreases expression of	AT5G16250
+drought treatment	decreases expression of	AT4G02330
+drought treatment	decreases expression of	AT3G45070
+drought treatment	decreases expression of	AT5G20630
+drought treatment	decreases expression of	POPTR_018G069700v3
+drought treatment	decreases expression of	POPTR_014G056800v3
+drought treatment	decreases expression of	POPTR_010G109200v3
+drought treatment	decreases expression of	POPTR_015G081500v3
+drought treatment	increases expression of	AT1G52690
+drought treatment	increases expression of	Sobic.003G214000
+drought treatment	increases expression of	Sobic.003G039400
+drought treatment	increases expression of	Sobic.009G215700
+drought treatment	increases expression of	Zm00001eb161610
+drought treatment	increases expression of	Zm00001eb294480
+drought treatment	increases expression of	AT5G12020
+drought treatment	increases expression of	AT1G71000
+drought treatment	increases expression of	POPTR_007G053400v3
+drought treatment	decreases expression of	POPTR_014G115000v3
+drought treatment	decreases expression of	POPTR_005G091700v3
+drought treatment	decreases expression of	POPTR_008G182200v3
+drought treatment	increases expression of	POPTR_010G205300v3
+drought treatment	decreases expression of	POPTR_003G167100v3
+drought treatment	increases expression of	POPTR_011G025400v3
+drought treatment	increases expression of	POPTR_001G339500v3
+drought treatment	decreases expression of	POPTR_014G127000v3
+drought treatment	decreases expression of	POPTR_006G142600v3
+drought treatment	increases expression of	AT4G26260
+drought treatment	increases expression of	AT2G44990
+drought treatment	increases expression of	AT1G12940
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
