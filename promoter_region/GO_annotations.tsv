@@ -1,18 +1,18 @@
 gene_id	predicate	GO_label	GO_CURIE								
-AT2G39530	enables	"4 iron, 4 sulfur cluster binding"	GO:0051539								
-POPTR_010G205300v3	enables	"4 iron, 4 sulfur cluster binding"	GO:0051539								
-AT2G44990	enables	"9-cis-beta-carotene 9',10'-cleavage oxygenase activity"	GO:0102395								
-POPTR_014G056800v3	enables	"9-cis-beta-carotene 9',10'-cleavage oxygenase activity"	GO:0102395								
-AT2G44990	enables	9-cis-epoxycarotenoid dioxygenase activity	GO:0045549								
-POPTR_014G056800v3	enables	9-cis-epoxycarotenoid dioxygenase activity	GO:0045549								
-AT1G10550	active in	apoplast	GO:0048046								
-POPTR_014G115000v3	active in	apoplast	GO:0048046								
-AT1G11580	enables	aspartyl esterase activity	GO:0045330								
-AT4G02330	enables	aspartyl esterase activity	GO:0045330								
-POPTR_011G025400v3	enables	aspartyl esterase activity	GO:0045330								
-POPTR_014G127000v3	enables	aspartyl esterase activity	GO:0045330								
-AT2G44990	regulates	auxin polar transport	GO:0009926								
-POPTR_014G056800v3	regulates	auxin polar transport	GO:0009926								
+AT2G39530	enables	"4 iron, 4 sulfur cluster binding"	GO:0051539		
+POPTR_010G205300v3	enables	"4 iron, 4 sulfur cluster binding"	GO:0051539						
+AT2G44990	enables	"9-cis-beta-carotene 9',10'-cleavage oxygenase activity"	GO:0102395
+POPTR_014G056800v3	enables	"9-cis-beta-carotene 9',10'-cleavage oxygenase activity"	GO:0102395	
+AT2G44990	enables	9-cis-epoxycarotenoid dioxygenase activity	GO:0045549
+POPTR_014G056800v3	enables	9-cis-epoxycarotenoid dioxygenase activity	GO:0045549
+AT1G10550	active in	apoplast	GO:0048046
+POPTR_014G115000v3	active in	apoplast	GO:0048046
+AT1G11580	enables	aspartyl esterase activity	GO:0045330
+AT4G02330	enables	aspartyl esterase activity	GO:0045330
+POPTR_011G025400v3	enables	aspartyl esterase activity	GO:0045330
+POPTR_014G127000v3	enables	aspartyl esterase activity	GO:0045330
+AT2G44990	regulates	auxin polar transport	GO:0009926
+POPTR_014G056800v3	regulates	auxin polar transport	GO:0009926
 AT5G13140	regulates	biological process	GO:0008150								
 POPTR_003G167100v3	regulates	biological process	GO:0008150								
 AT1G10550	regulates	carbohydrate metabolic process	GO:0005975								
@@ -56,10 +56,10 @@ AT1G12940	active in	cytoplasm	GO:0005737
 AT4G26260	active in	cytoplasm	GO:0005737								
 POPTR_018G069700v3	active in	cytoplasm	GO:0005737								
 AT1G11580	active in 	cytosol	GO:0005829								
-AT3G27400	active in	cytosol	GO:0005829								
-POPTR_001G339500v3	active in	cytosol	GO:0005829								
-AT1G11580	regulates	defense response to fungus	GO:0050832								
-POPTR_011G025400v3	regulates	defense response to fungus	GO:0050832								
+AT3G27400	active in	cytosol	GO:0005829
+POPTR_001G339500v3	active in	cytosol	GO:0005829
+AT1G11580	regulates	defense response to fungus	GO:0050832
+POPTR_011G025400v3	regulates	defense response to fungus	GO:0050832			
 AT1G11580	enables	enzyme inhibitor activity	GO:0004857								
 AT4G02330	enables	enzyme inhibitor activity	GO:0004857								
 POPTR_011G025400v3	enables	enzyme inhibitor activity	GO:0004857								
