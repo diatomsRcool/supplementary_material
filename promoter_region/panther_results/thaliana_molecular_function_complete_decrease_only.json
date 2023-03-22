@@ -1,0 +1,143 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Arabidopsis thaliana",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20220202,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.6399963 Released 2022-03-22",
+    "annotation_type": "GO molecular function complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 126.99074074074073,
+                    "fdr": 1.3910926894371604E-4,
+                    "expected": 0.03149835946044477,
+                    "pValue": 4.2737102594075584E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 32,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0016762",
+                    "label": "xyloglucan:xyloglucosyl transferase activity"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 21.275935621485363,
+                    "fdr": 0.030997033662286497,
+                    "expected": 0.1880058330295297,
+                    "pValue": 3.809159282615852E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 191,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0046527",
+                    "label": "glucosyltransferase activity"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 12.827347549569772,
+                    "fdr": 0.026133832721958083,
+                    "expected": 0.389792198323004,
+                    "pValue": 4.01441362856499E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550",
+                        "AT1G70710"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 396,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0004553",
+                    "label": "hydrolase activity, hydrolyzing O-glycosyl compounds"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 10.693957115009749,
+                    "fdr": 0.027487683020896686,
+                    "expected": 0.5610645278891724,
+                    "pValue": 1.6889513376895045E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550",
+                        "AT1G70710"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 570,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0016798",
+                    "label": "hydrolase activity, acting on glycosyl bonds"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 11,
+                    "fold_enrichment": 4.131306907647018,
+                    "fdr": 0.027316746645985407,
+                    "expected": 2.6625956981407217,
+                    "pValue": 2.5176725019341388E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT3G54400",
+                        "AT4G02330",
+                        "AT3G16370",
+                        "AT2G06850",
+                        "AT5G23210",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550",
+                        "AT1G70710",
+                        "AT1G20850"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2705,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0016787",
+                    "label": "hydrolase activity"
+                }
+            }
+        ]}
+    ]
+}}

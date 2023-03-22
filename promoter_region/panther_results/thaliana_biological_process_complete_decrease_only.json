@@ -1,0 +1,472 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Arabidopsis thaliana",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20220202,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.6399963 Released 2022-03-22",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 225.76131687242798,
+                    "fdr": 0.023090297072093296,
+                    "expected": 0.008858913598250091,
+                    "pValue": 5.09373599078929E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G10550",
+                        "AT1G70710"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 9,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0042547",
+                    "label": "cell wall modification involved in multidimensional cell growth"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 23.354618986802897,
+                    "fdr": 0.01571687967495517,
+                    "expected": 0.17127232956616842,
+                    "pValue": 2.6670421983633417E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT4G02330",
+                        "AT1G10550",
+                        "AT1G70710"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 174,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0042545",
+                    "label": "cell wall modification"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 9.416409200137316,
+                    "fdr": 7.008848377945895E-4,
+                    "expected": 0.9557783448778708,
+                    "pValue": 2.3787029960787017E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT3G54400",
+                        "AT4G02330",
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT2G04780",
+                        "AT1G10550",
+                        "AT1G70710"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 971,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0071554",
+                    "label": "cell wall organization or biogenesis"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 2,
+                "fold_enrichment": 119.52069716775598,
+                "fdr": 0.04888146529220426,
+                "expected": 0.016733503463361284,
+                "pValue": 1.5760187350277974E-4,
+                "mapped_id_list": {"mapped_id": [
+                    "AT1G13420",
+                    "AT3G45070"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 17,
+            "term": {
+                "level": 0,
+                "id": "GO:0051923",
+                "label": "sulfation"
+            }
+        }},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 68.87633396107974,
+                    "fdr": 8.336957562948295E-4,
+                    "expected": 0.058075100255195036,
+                    "pValue": 4.244166415890868E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 59,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0010411",
+                    "label": "xyloglucan metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 32.77180406212664,
+                    "fdr": 0.00714707538166793,
+                    "expected": 0.12205614290922348,
+                    "pValue": 7.276845798406174E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 124,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0010410",
+                    "label": "hemicellulose metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 22.958777987026576,
+                    "fdr": 0.015253867107311959,
+                    "expected": 0.17422530076558512,
+                    "pValue": 2.847319500770941E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 177,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0010383",
+                    "label": "cell wall polysaccharide metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 18.900947459086996,
+                    "fdr": 0.022038096669889283,
+                    "expected": 0.21162960262486327,
+                    "pValue": 5.9835321011068813E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 215,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0044036",
+                    "label": "cell wall macromolecule metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 8.609541745134965,
+                    "fdr": 7.397206625241981E-4,
+                    "expected": 1.0453518045935108,
+                    "pValue": 5.021012472589161E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT3G54400",
+                        "AT4G02330",
+                        "AT2G06850",
+                        "AT1G67750",
+                        "AT3G44990",
+                        "AT3G27400",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1062,
+                "term": {
+                    "level": 5,
+                    "id": "GO:0005975",
+                    "label": "carbohydrate metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 9,
+                    "fold_enrichment": 18.584010840108398,
+                    "fdr": 4.305951000529038E-6,
+                    "expected": 0.48428727670433835,
+                    "pValue": 7.306891227777088E-10,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT3G54400",
+                        "AT4G02330",
+                        "AT2G06850",
+                        "AT1G67750",
+                        "AT3G44990",
+                        "AT3G27400",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 492,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0005976",
+                    "label": "polysaccharide metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 20.21743136170997,
+                    "fdr": 0.022730453779961135,
+                    "expected": 0.1978490703609187,
+                    "pValue": 4.628634742228638E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 201,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0006073",
+                    "label": "cellular glucan metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 19.443558390926814,
+                    "fdr": 0.021103458048011052,
+                    "expected": 0.2057236602260299,
+                    "pValue": 5.3716590992731335E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT2G06850",
+                        "AT3G44990",
+                        "AT2G36870",
+                        "AT1G10550"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 209,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0044042",
+                    "label": "glucan metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 41.46636432350718,
+                    "fdr": 0.0034765175667602808,
+                    "expected": 0.0964637258476121,
+                    "pValue": 2.9497009729851354E-6,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT4G02330",
+                        "AT1G67750",
+                        "AT3G27400"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 98,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0045490",
+                    "label": "pectin catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 28.417508417508415,
+                    "fdr": 0.010586543455218521,
+                    "expected": 0.14075829383886257,
+                    "pValue": 1.2575225553458281E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT4G02330",
+                        "AT1G67750",
+                        "AT3G27400"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 143,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0000272",
+                    "label": "polysaccharide catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 6.818294804871987,
+                    "fdr": 0.02237922994730392,
+                    "expected": 1.0266496536638716,
+                    "pValue": 5.316633620605037E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT4G02330",
+                        "AT1G67750",
+                        "AT3G44990",
+                        "AT3G27400",
+                        "AT2G36870",
+                        "AT1G20850"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1043,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0009057",
+                    "label": "macromolecule catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 17.668276972624795,
+                    "fdr": 0.025322695042824098,
+                    "expected": 0.2263944586219468,
+                    "pValue": 7.734744795025178E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT4G02330",
+                        "AT1G67750",
+                        "AT3G27400"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 230,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0016052",
+                    "label": "carbohydrate catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 24.930697568734377,
+                    "fdr": 0.015299902362126328,
+                    "expected": 0.16044476850164055,
+                    "pValue": 2.077027301832863E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT4G02330",
+                        "AT1G67750",
+                        "AT3G27400"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 163,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0045488",
+                    "label": "pectin metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 24.778681120144533,
+                    "fdr": 0.013922278084351751,
+                    "expected": 0.16142909223477944,
+                    "pValue": 2.1262600162763576E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "AT1G11580",
+                        "AT4G02330",
+                        "AT1G67750",
+                        "AT3G27400"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 164,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0010393",
+                    "label": "galacturonan metabolic process"
+                }
+            }
+        ]},
+        {"result": {
+            "input_list": {
+                "number_in_list": 5,
+                "fold_enrichment": 11.338458994708995,
+                "fdr": 0.02479544983953206,
+                "expected": 0.44097703244622677,
+                "pValue": 7.152938185508995E-5,
+                "mapped_id_list": {"mapped_id": [
+                    "AT2G06850",
+                    "AT3G44990",
+                    "AT2G36870",
+                    "AT2G04780",
+                    "AT1G10550"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 448,
+            "term": {
+                "level": 0,
+                "id": "GO:0042546",
+                "label": "cell wall biogenesis"
+            }
+        }}
+    ]
+}}

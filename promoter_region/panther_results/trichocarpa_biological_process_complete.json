@@ -1,0 +1,352 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Populus trichocarpa",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20220202,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.6399963 Released 2022-03-22",
+    "annotation_type": "GO biological process complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": [
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 434,
+                    "fdr": 0.00516008402019175,
+                    "expected": 0.004608294930875576,
+                    "pValue": 1.2033778032163596E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_014G056800v3",
+                        "POPTR_018G069700v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 14,
+                "term": {
+                    "level": 0,
+                    "id": "GO:1901336",
+                    "label": "lactone biosynthetic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 2,
+                    "fold_enrichment": 337.55555555555554,
+                    "fdr": 0.007421809144324329,
+                    "expected": 0.005924950625411455,
+                    "pValue": 1.9039155920608122E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_014G056800v3",
+                        "POPTR_018G069700v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 18,
+                "term": {
+                    "level": 1,
+                    "id": "GO:1901334",
+                    "label": "lactone metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 98.79674796747967,
+                    "fdr": 6.35035073325287E-5,
+                    "expected": 0.04048716260697827,
+                    "pValue": 7.40479329903553E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 123,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0045490",
+                    "label": "pectin catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 70.32407407407408,
+                    "fdr": 9.954389323730328E-6,
+                    "expected": 0.07109940750493746,
+                    "pValue": 6.964358202236703E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_010G109200v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 216,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0000272",
+                    "label": "polysaccharide catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 5,
+                    "fold_enrichment": 13.80909090909091,
+                    "fdr": 0.006891125455407329,
+                    "expected": 0.3620803159973667,
+                    "pValue": 1.9284866013266778E-5,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_010G109200v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1100,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0009057",
+                    "label": "macromolecule catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 11.887087758524316,
+                    "fdr": 2.9720018685874025E-4,
+                    "expected": 0.5888742593811718,
+                    "pValue": 6.237877056270201E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_014G056800v3",
+                        "POPTR_010G109200v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_018G069700v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1789,
+                "term": {
+                    "level": 3,
+                    "id": "GO:1901575",
+                    "label": "organic substance catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 8,
+                    "fold_enrichment": 12.043607532210109,
+                    "fdr": 6.488721745368917E-5,
+                    "expected": 0.6642527978933509,
+                    "pValue": 6.052912075903841E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_007G053400v3",
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_014G056800v3",
+                        "POPTR_010G109200v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_018G069700v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 2018,
+                "term": {
+                    "level": 4,
+                    "id": "GO:0009056",
+                    "label": "catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 39.54013015184382,
+                    "fdr": 1.0122186425189333E-5,
+                    "expected": 0.15174456879526005,
+                    "pValue": 4.721169041599502E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_010G109200v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_014G115000v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 461,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0005976",
+                    "label": "polysaccharide metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 7,
+                    "fold_enrichment": 15.965465465465464,
+                    "fdr": 6.083467614044003E-5,
+                    "expected": 0.4384463462804477,
+                    "pValue": 8.512314758457094E-8,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_010G109200v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_018G069700v3",
+                        "POPTR_014G115000v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 1332,
+                "term": {
+                    "level": 3,
+                    "id": "GO:0005975",
+                    "label": "carbohydrate metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 6,
+                    "fold_enrichment": 50.77437325905292,
+                    "fdr": 4.649630515003275E-6,
+                    "expected": 0.11816984858459513,
+                    "pValue": 1.0843354745809875E-9,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_010G109200v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_018G069700v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 359,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0016052",
+                    "label": "carbohydrate catabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 78.9090909090909,
+                    "fdr": 9.542204736446982E-5,
+                    "expected": 0.05069124423963134,
+                    "pValue": 1.7802620776953324E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 154,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0045488",
+                    "label": "pectin metabolic process"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 4,
+                    "fold_enrichment": 78.9090909090909,
+                    "fdr": 1.0905376841653693E-4,
+                    "expected": 0.05069124423963134,
+                    "pValue": 1.7802620776953324E-7,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_001G339500v3",
+                        "POPTR_011G025400v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_008G182200v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 154,
+                "term": {
+                    "level": 2,
+                    "id": "GO:0010393",
+                    "label": "galacturonan metabolic process"
+                }
+            }
+        ]},
+        {"result": [
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 32.20494699646643,
+                    "fdr": 0.03416180067574172,
+                    "expected": 0.09315339038841343,
+                    "pValue": 1.035688919740304E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_011G025400v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_014G115000v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 283,
+                "term": {
+                    "level": 0,
+                    "id": "GO:0071555",
+                    "label": "cell wall organization"
+                }
+            },
+            {
+                "input_list": {
+                    "number_in_list": 3,
+                    "fold_enrichment": 29.59090909090909,
+                    "fdr": 0.040625448464670866,
+                    "expected": 0.10138248847926268,
+                    "pValue": 1.3263905748726496E-4,
+                    "mapped_id_list": {"mapped_id": [
+                        "POPTR_011G025400v3",
+                        "POPTR_014G127000v3",
+                        "POPTR_014G115000v3"
+                    ]},
+                    "list_name": "upload_1",
+                    "plus_minus": "+"
+                },
+                "number_in_reference": 308,
+                "term": {
+                    "level": 1,
+                    "id": "GO:0045229",
+                    "label": "external encapsulating structure organization"
+                }
+            }
+        ]}
+    ]
+}}

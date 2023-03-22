@@ -1,0 +1,35 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Arabidopsis thaliana",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20220202,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.6399963 Released 2022-03-22",
+    "annotation_type": "GO molecular function complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": {"result": {
+        "input_list": {
+            "number_in_list": 4,
+            "fold_enrichment": 103.90151515151516,
+            "fdr": 3.2226049315292485E-4,
+            "expected": 0.03849799489609916,
+            "pValue": 9.900475980120578E-8,
+            "mapped_id_list": {"mapped_id": [
+                "AT2G06850",
+                "AT3G44990",
+                "AT2G36870",
+                "AT1G10550"
+            ]},
+            "list_name": "upload_1",
+            "plus_minus": "+"
+        },
+        "number_in_reference": 32,
+        "term": {
+            "level": 0,
+            "id": "GO:0016762",
+            "label": "xyloglucan:xyloglucosyl transferase activity"
+        }
+    }}
+}}

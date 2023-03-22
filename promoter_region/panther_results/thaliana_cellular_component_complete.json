@@ -1,0 +1,49 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Arabidopsis thaliana",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20220202,
+    "data_version_release_date": "GO Ontology database DOI:  10.5281/zenodo.6399963 Released 2022-03-22",
+    "annotation_type": "GO cellular component complete",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": {"result": {
+        "input_list": {
+            "number_in_list": 18,
+            "fold_enrichment": 4.786250218112022,
+            "fdr": 2.122024825600753E-6,
+            "expected": 3.760772876412687,
+            "pValue": 2.0522483806583684E-9,
+            "mapped_id_list": {"mapped_id": [
+                "AT1G11580",
+                "AT3G54400",
+                "AT4G02330",
+                "AT2G10940",
+                "AT2G06850",
+                "AT5G23210",
+                "AT1G67750",
+                "AT3G49960",
+                "AT4G08685",
+                "AT5G67400",
+                "AT3G27400",
+                "AT2G36870",
+                "AT1G10550",
+                "AT1G70710",
+                "AT3G16370",
+                "AT3G44990",
+                "AT5G20630",
+                "AT1G20850"
+            ]},
+            "list_name": "upload_1",
+            "plus_minus": "+"
+        },
+        "number_in_reference": 3126,
+        "term": {
+            "level": 0,
+            "id": "GO:0005576",
+            "label": "extracellular region"
+        }
+    }}
+}}

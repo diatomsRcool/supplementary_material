@@ -1,0 +1,73 @@
+{"overrepresentation": {
+    "reference": "",
+    "upload_lists": {"input_list": {
+        "organism": "Arabidopsis thaliana",
+        "list_name": "upload_1"
+    }},
+    "tool_release_date": 20220202,
+    "data_version_release_date": "PANTHER version 17.0 Released 2022-02-22",
+    "annotation_type": "PANTHER Protein Class",
+    "correction": "FDR",
+    "test_type": "FISHER",
+    "group": {"result": [
+        {
+            "input_list": {
+                "number_in_list": 7,
+                "fold_enrichment": 6.324440052700922,
+                "fdr": 0.016825070223805996,
+                "expected": 1.106817353262851,
+                "pValue": 9.66958058839425E-5,
+                "mapped_id_list": {"mapped_id": [
+                    "AT1G11580",
+                    "AT4G02330",
+                    "AT3G16370",
+                    "AT2G06850",
+                    "AT3G44990",
+                    "AT2G36870",
+                    "AT1G10550"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 920,
+            "term": {
+                "level": 0,
+                "id": "PC00121",
+                "label": "hydrolase"
+            }
+        },
+        {
+            "input_list": {
+                "number_in_list": 14,
+                "fold_enrichment": 2.9092424242424246,
+                "fdr": 0.00900019930329996,
+                "expected": 4.812249362012395,
+                "pValue": 1.0345056670459724E-4,
+                "mapped_id_list": {"mapped_id": [
+                    "AT1G13420",
+                    "AT1G11580",
+                    "AT4G02330",
+                    "AT2G06850",
+                    "AT1G67750",
+                    "AT1G11600",
+                    "AT4G26260",
+                    "AT3G27400",
+                    "AT2G36870",
+                    "AT1G10550",
+                    "AT3G16370",
+                    "AT3G44990",
+                    "AT2G44990",
+                    "AT3G45070"
+                ]},
+                "list_name": "upload_1",
+                "plus_minus": "+"
+            },
+            "number_in_reference": 4000,
+            "term": {
+                "level": 1,
+                "id": "PC00262",
+                "label": "metabolite interconversion enzyme"
+            }
+        }
+    ]}
+}}
